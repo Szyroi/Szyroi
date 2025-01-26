@@ -12,6 +12,6 @@ Ich bin ein leidenschaftlicher Entwickler mit Erfahrung in verschiedenen Program
 ## Projekte
 - [Inventur_Projekt](https://github.com/Szyroi/Inventur_Projekt): Eine Inventur-Anwendung
 - [Ein weiteres Projekt](https://github.com/Szyroi/Ein_weiteres_Projekt): Beschreibung des Projekts
-- 
+  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Szyroi&show_icons=true&theme=radical)
